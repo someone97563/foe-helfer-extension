@@ -172,7 +172,8 @@ async function InjectCode() {
 			'settings',
 			'strategy-points',
 			'citymap',
-			'hidden-rewards'
+			'hidden-rewards',
+			'tradings'
 		];
 
 		// Scripte laden (nacheinander)
